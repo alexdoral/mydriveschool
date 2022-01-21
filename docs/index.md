@@ -17,6 +17,14 @@
 [x] Возможна многопользовательская работа в программе
 
 
+
+
+
+[![Короткое видео о возможностях программы:](https://www.youtube.com/watch?time_continue=1&v=idihCL7IPdI&feature=emb_logo)
+
+
+
+
 You can use the [editor on GitHub](https://github.com/alexdoral/mydriveschool/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
