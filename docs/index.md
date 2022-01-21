@@ -20,8 +20,6 @@
 
 
 
-[![Короткое видео о возможностях программы:](https://www.youtube.com/watch?time_continue=1&v=idihCL7IPdI&feature=emb_logo)
-
 
 
 
