@@ -1,4 +1,8 @@
-## Моя автошкола
+## Программа для Вашей АВТОШКОЛЫ
+
+## Простая и удобная программа для ведения учета в Автошколе с формированием необходимых отчетов и уникальными возможностями с 2016 года.
+
+![Рабочий стол программы](http://reg.mydriveschool.ru/pages/mydrive_github.png)
 
 You can use the [editor on GitHub](https://github.com/alexdoral/mydriveschool/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
