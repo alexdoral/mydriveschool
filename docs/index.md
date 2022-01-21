@@ -1,5 +1,5 @@
 
-[Скачать программу](https://files.buhsoft.ru/DrivingSchool.exe)
+[![](http://reg.mydriveschool.ru/pages/download_btn.png)](https://files.buhsoft.ru/DrivingSchool.exe)
 
 Простая и удобная программа для ведения учета в Автошколе с формированием необходимых отчетов и уникальными возможностями с 2016 года.
 
