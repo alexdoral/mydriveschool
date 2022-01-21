@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Моя Автошкола
 description: Учетная программа для автошкол
+github:
+   is_project_page: false
