@@ -25,6 +25,6 @@
 
 [x] `Возможна многопользовательская работа в программе.`
 
-
+![Логотип](http://reg.mydriveschool.ru/pages/myautoschool_logo_label.png)
 
 ## По всем вопросам можно обращаться через кнопку `"Поддержка"` в левом нижнем углу или по адресу `myautoschoolinfo@yandex.ru`
