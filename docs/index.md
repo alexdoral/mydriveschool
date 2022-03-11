@@ -27,7 +27,7 @@
 
 ### Простая и удобная программа для ведения учета в Автошколе с формированием необходимых отчетов и уникальными возможностями с 2016 года.
 
-![Рабочий стол программы](http://reg.mydriveschool.ru/pages/mydrive_github.png)
+![Рабочий стол программы](http://crm.buhsoft.ru/drivingschool/mydrive_github.png)
 
 
 ### Преимущества программы "Моя автошкола":
@@ -40,7 +40,7 @@
 
 [x] `Возможна многопользовательская работа в программе.`
 
-![Логотип](http://reg.mydriveschool.ru/pages/myautoschool_logo_label.png)
+![Логотип](http://crm.buhsoft.ru/drivingschool/myautoschool_logo_label.png)
 
 ## По всем вопросам можно обращаться через кнопку `"Поддержка"` в левом нижнем углу или по адресу `myautoschoolinfo@yandex.ru`
 
