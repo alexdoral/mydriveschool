@@ -21,7 +21,7 @@
 
 
 
-[![](http://reg.mydriveschool.ru/pages/download_btn.png)](https://files.buhsoft.ru/DrivingSchool.exe)
+[![](http://crm.buhsoft.ru/drivingschool/download_btn.png)](https://files.buhsoft.ru/DrivingSchool.exe)
 
 *Версия от 19.11.2021*
 
