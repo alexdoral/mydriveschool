@@ -8,7 +8,6 @@
           </script>
           
 
-<div data-formid="form_9kGQzKVw5vuZ2xlU54in24LrJKm4dvRp"></div>
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -57,3 +56,5 @@
 ## По всем вопросам можно обращаться через кнопку `"Поддержка"` в левом нижнем углу или по адресу `myautoschoolinfo@yandex.ru`
 
 * Если вы не получили ответ на ваше письмо или обращение, то возможно ответ попал в "спам". Если там нет, то воспользуйтесь альтернативным вариантом связи -  писали по кнопке "Поддержка", значит напишите на email (или наоборот). 
+
+<div data-formid="form_9kGQzKVw5vuZ2xlU54in24LrJKm4dvRp"></div>
