@@ -1,3 +1,13 @@
+
+<meta name="qform-verification" content="FsZYBVZp63ON"/>
+<script type='text/javascript'>
+          (function() {
+            function init() {var scr = document.createElement('script'); scr.type = 'text/javascript'; scr.defer = 'defer'; scr.src = '//cdn.qform.io/forms.js?v=' + parseInt(new Date().getTime()/1000); var scrInsert = document.getElementsByTagName('script')[0]; scrInsert.parentNode.insertBefore(scr, scrInsert); }
+            var d = document; var w = window;
+            if (d.readyState == 'complete') {init(); } else {if (w.attachEvent) {w.attachEvent('onload', init); } else {w.addEventListener('load', init, false); } } })();
+          </script>
+          
+
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
@@ -19,13 +29,6 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/68195038" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-<meta name="qform-verification" content="pXpibxsW0TDX"/>
-<script type='text/javascript'>
-          (function() {
-            function init() {var scr = document.createElement('script'); scr.type = 'text/javascript'; scr.defer = 'defer'; scr.src = '//cdn.qform.io/forms.js?v=' + parseInt(new Date().getTime()/1000); var scrInsert = document.getElementsByTagName('script')[0]; scrInsert.parentNode.insertBefore(scr, scrInsert); }
-            var d = document; var w = window;
-            if (d.readyState == 'complete') {init(); } else {if (w.attachEvent) {w.attachEvent('onload', init); } else {w.addEventListener('load', init, false); } } })();
-          </script>
           
 
 [![](http://crm.buhsoft.ru/drivingschool/download_btn.png)](https://files.buhsoft.ru/DrivingSchool.exe)
