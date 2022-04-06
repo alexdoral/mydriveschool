@@ -19,7 +19,13 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/68195038" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-
+<script type='text/javascript'>
+          (function() {
+            function init() {var scr = document.createElement('script'); scr.type = 'text/javascript'; scr.defer = 'defer'; scr.src = '//cdn.qform.io/forms.js?v=' + parseInt(new Date().getTime()/1000); var scrInsert = document.getElementsByTagName('script')[0]; scrInsert.parentNode.insertBefore(scr, scrInsert); }
+            var d = document; var w = window;
+            if (d.readyState == 'complete') {init(); } else {if (w.attachEvent) {w.attachEvent('onload', init); } else {w.addEventListener('load', init, false); } } })();
+          </script>
+          
 
 [![](http://crm.buhsoft.ru/drivingschool/download_btn.png)](https://files.buhsoft.ru/DrivingSchool.exe)
 
