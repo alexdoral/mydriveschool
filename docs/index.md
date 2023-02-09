@@ -15,26 +15,11 @@
 
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=ccefe113-3ef7-4ed9-987b-728b69bc0e10"> </script>
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-   ym(68195038, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/68195038" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
 
-          
+[![](http://crm.buhsoft.ru/drivingschool/download_btn.png)](https://www.mydriveschool.ru/download/DrivingSchool.exe)
 
-[![](http://crm.buhsoft.ru/drivingschool/download_btn.png)](https://files.buhsoft.ru/DrivingSchool.exe)
-
-*Версия от 20.04.2022*
+*Версия от 28.12.2022*
 
 ### Простая и удобная программа для Вашей Автошколы. Учет учеников, подготовка документов в ГИБДД и многое другое. С 2016 года.
 
