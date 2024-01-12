@@ -19,7 +19,7 @@
 
 [![](http://crm.buhsoft.ru/drivingschool/download_btn.png)](https://www.mydriveschool.ru/download/DrivingSchool.exe)
 
-*Версия от 28.12.2022*
+*Версия от 23.11.2023*
 
 ### Простая и удобная программа для Вашей Автошколы. Учет учеников, подготовка документов в ГИБДД и многое другое. С 2016 года.
 
